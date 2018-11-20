@@ -1,4 +1,4 @@
-# facial_emotion_recognition__EMOJIFIER
+# EMOJI_PREDICTOR
 Recognizes the facial emotion and overlays emoji, equivalent to the emotion, on the persons face.  
 
 ## Some results First!  
@@ -6,9 +6,9 @@ Recognizes the facial emotion and overlays emoji, equivalent to the emotion, on 
 
 ## Getting Started
 1. ### Get the code:
-    - Using SSH: `git clone git@github.com:vijuSR/facial_emotion_recognition__EMOJIFIER.git`  
+    - Using SSH: `git clone git@github.com:sp-502/facial_emotion_recognition__EMOJIFIER.git`  
     OR  
-    - Using HTTP: `git clone https://github.com/vijuSR/facial_emotion_recognition__EMOJIFIER.git`
+    - Using HTTP: `git clone https://github.com/sp-502/facial_emotion_recognition__EMOJIFIER.git`
 
 1. ### Setup the Virtual Environment (Recommended):
     - Create the virtual environment
